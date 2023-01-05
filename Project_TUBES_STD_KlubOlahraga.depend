@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1672772608 source:d:\kuliah\semester 3\c++\tubes std\project_tubes_std_klubolahraga\anggota.cpp
+	"anggota.h"
+
+1672772607 d:\kuliah\semester 3\c++\tubes std\project_tubes_std_klubolahraga\anggota.h
+	<iostream>
+
+1672592171 source:d:\kuliah\semester 3\c++\tubes std\project_tubes_std_klubolahraga\main.cpp
+	<iostream>
+	"team.h"
+	"anggota.h"
+
+1672772608 d:\kuliah\semester 3\c++\tubes std\project_tubes_std_klubolahraga\team.h
+	<iostream>
+	"anggota.h"
+
+1672772609 source:d:\kuliah\semester 3\c++\tubes std\project_tubes_std_klubolahraga\team.cpp
+	"team.h"
+	"anggota.h"
+	<climits>
+
